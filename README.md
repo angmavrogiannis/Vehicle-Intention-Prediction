@@ -1,5 +1,5 @@
 # Vehicle-Intention-Prediction
-This repository sums up the work I did in the Intelligent Control Lab at Carnegie Mellon University, Robotics Institute for the spring semester of 2018.
+This repository sums up the work I did in the Intelligent Control Lab at Carnegie Mellon University, Robotics Institute for the spring semester of 2019.
 
 I got real-world vehicle trajectory data from NGSIM (https://ops.fhwa.dot.gov/trafficanalysistools/ngsim.htm) and labeled them based on the action-maneuver the vehicles are executing at a certain timestep.
 
